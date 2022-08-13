@@ -1,7 +1,3 @@
-#
-# https://jdh5202.tistory.com/911
-# https://codetorial.net/pyautogui/screenshot.html
-#
 import time
 from 매크로 import Macro3
 import json
