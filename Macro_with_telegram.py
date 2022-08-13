@@ -13,7 +13,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler
 from telegram.ext import MessageHandler, Filters
 
-telegram_token = '5392421190:AAFj3bZTo4iOgwReEG_W0jHkmXbDBGBfp6o'
+telegram_token = ####토큰#####
 telegram_id = 5380801292
 
 bot = telegram.Bot(token=telegram_token)
